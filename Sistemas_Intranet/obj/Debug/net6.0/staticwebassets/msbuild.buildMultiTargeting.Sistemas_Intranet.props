@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sistemas_Intranet.props" />
+</Project>
